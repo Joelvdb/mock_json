@@ -1,1 +1,12 @@
-{}
+{
+  "data": {
+    "me": {
+      "id": "10934266052939387266",
+      "activeBoost": null,
+      "boostTokenCount": 0,
+      "lastBoost": null,
+      "__typename": "User"
+    }
+  },
+  "extensions": {}
+}
